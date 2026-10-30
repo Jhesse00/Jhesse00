@@ -1,24 +1,24 @@
-# Hey, I'm Johanne ðŸ‘‹
+# Hey, I'm Johanne 👋
 
 I'm an **Information Systems & Technology student at NYU** with a strong interest in cybersecurity, systems engineering, and machine learning.
 
 I enjoy building practical tools, experimenting with infrastructure, and understanding how technology works under the hood.
 
-### ðŸ”­ What I'm Into
-- **Cybersecurity** -- Threat detection, incident response, and security automation
-- **Systems & Infrastructure** -- Linux, networking, Docker, and self-hosting
-- **Cloud Computing** -- AWS, security monitoring, and cloud infrastructure
-- **AI & GPU Computing** -- Machine learning, ONNX, DirectML, and GPU acceleration
+### 🔭 What I'm Into
 
-### ðŸ› ï¸ Tech Stack
-**Languages:** Python Â· PowerShell Â· TypeScript Â· JavaScript
+- **Cybersecurity** — Threat detection, incident response, and security automation
+- **Systems & Infrastructure** — Linux, networking, Docker, and self-hosting
+- **Cloud Computing** — AWS, security monitoring, and cloud infrastructure
+- **AI & GPU Computing** — Machine learning, ONNX, DirectML, and GPU acceleration
 
-**Tools & Platforms:** Linux Â· Docker Â· AWS Â· Proxmox Â· Git Â· Wireshark Â· Wazuh Â· ONNX Â· DirectML
+### 🛠️ Tech Stack
 
-### ðŸš€ Projects
-- [AWS Cloud Threat Detection Lab](https://github.com/Jhesse00/AWS-Cloud-Threat-Detection-Lab) -- Cloud-based honeypot and threat analysis.
-- [Metadata Privacy Scanner](https://github.com/Jhesse00/metadata-scanner) -- File metadata analysis and privacy protection.
-- [Endpoint Triage Pro](https://github.com/Jhesse00/endpoint-triage-pro) -- Desktop endpoint investigation and response tool.
+**Languages:** Python · PowerShell · TypeScript · JavaScript
 
-### ðŸ“« Connect
-[GitHub](https://github.com/Jhesse00)
+**Tools & Platforms:** Linux · Docker · AWS · Proxmox · Git · Wireshark · Wazuh · ONNX · DirectML
+
+### 📫 Connect
+
+- **Website:** [johannehesse.dev](https://johannehesse.dev)
+- **LinkedIn:** [Johanne Hesse](https://www.linkedin.com/in/johanne-hesse-ab965521a)
+- **GitHub:** [@Jhesse00](https://github.com/Jhesse00)
