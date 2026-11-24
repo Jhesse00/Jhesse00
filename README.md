@@ -3,7 +3,7 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3500&pause=1000&color=00D9FF&center=true&vCenter=true&width=650&lines=Hey%2C+I'm+Johanne+%F0%9F%91%8B;Cybersecurity+%26+Infrastructure;GPU+Computing+%26+Machine+Learning" alt="Typing Header" />
 
-**Information Systems & Technology @ NYU**
+**Information Systems @ NYU**
 
 [![Website](https://img.shields.io/badge/Website-00D9FF?style=for-the-badge&logo=googlechrome&logoColor=white)](https://johannehesse.dev)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/johanne-hesse-ab965521a)
@@ -14,7 +14,7 @@
 
 ### 👨‍💻 About Me
 
-I'm an **Information Systems & Technology student at NYU** interested in cybersecurity, systems engineering, and machine learning.
+I'm an Information Systems student interested in cybersecurity, systems engineering, and machine learning.
 
 I enjoy building practical tools, experimenting with infrastructure, and understanding how technology works under the hood.
 
