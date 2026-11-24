@@ -53,6 +53,17 @@ currently_exploring:
 
 ---
 
+### 📌 Featured Projects
+
+| Project | What it shows |
+|---|---|
+| [AWS Cloud Threat Detection Lab](https://github.com/Jhesse00/AWS-Cloud-Threat-Detection-Lab) | SSH honeypot on EC2: 1,278 failed logins from 44 IPs analyzed and enriched, with remediation |
+| [Endpoint Triage Pro](https://github.com/Jhesse00/endpoint-triage-pro) | PowerShell + Electron help desk tool that scores endpoint health and exports ticket reports |
+| [Metadata Privacy Scanner](https://github.com/Jhesse00/metadata-scanner) | Flask metadata scanning, risk scoring, sanitization, and report exports |
+| [Home Systems & Networking Lab](https://github.com/Jhesse00/homelab-proxmox) | Proxmox VMs, isolated networks, OPNsense firewall/NAT, Pi-hole, Wireshark, Grafana monitoring |
+
+---
+
 <div align="center">
 
 **[Website](https://johannehesse.dev) • [LinkedIn](https://www.linkedin.com/in/johanne-hesse-ab965521a) • [GitHub](https://github.com/Jhesse00)**
